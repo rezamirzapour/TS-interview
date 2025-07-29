@@ -4,7 +4,7 @@
 // what is the main diffrence in file structure between App Router and Page Router
 // what is a dynamic route? explain the file and folder structure
 // what is a group route? explain the file and folder structure
-// what is an api route? what's the diffrence of an api route and a server action?
+// what is an api route? what's the diffrence of an api route and a server action? when we use an api route or server action?
 // in page router, what's the diffrence between getStaticProps and getServerSideProps?
 // which built-in functions are used to revalidate caches in next js?
 // which meta tags do you know which are used to enhance SEO?
